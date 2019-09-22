@@ -1,0 +1,57 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+    color: #EAEAEA;
+    height: 100%;
+    margin: 0px;
+    font-family: 'Lora', serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    color: #8e7932;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color: #231f20;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+a {
+    color: #8e7932;
+    text-decoration: none;
+}
+
+.main {
+    height: 100%;
+    background-image: url("https://gallery.yopriceville.com/var/albums/Superstars/Drake_Wallpaper-871980065.jpg?m=1472306060");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: #8e7932;
+    background-color: #231f20;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+}
+
+.social-image {
+    width: 30px;
+    margin: 15px;
+}
