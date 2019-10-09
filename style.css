@@ -14,6 +14,7 @@ body {
     display: flex;
     justify-content: space-around;
     font-size: 50px;
+    font-family:font-family: 'Abril Fatface', cursive;
     color: #8e7932;
 }
 
