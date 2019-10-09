@@ -56,3 +56,21 @@ a {
     width: 30px;
     margin: 15px;
 }
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.thumbnail {
+    margin: 30px;
+    border: solid #8e7932;
+    width: 250px;
+    height: 250px;
+}
+
+.thumbnail-image {
+    height: 100%;
+    width: 100%;
+}
